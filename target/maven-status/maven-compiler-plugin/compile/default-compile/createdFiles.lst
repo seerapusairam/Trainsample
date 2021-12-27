@@ -1,0 +1,6 @@
+ticketpack\TrainDAO.class
+model\Passenger.class
+mainpack\main.class
+model\Train.class
+ticketpack\DBManager.class
+ticketpack\Ticket.class
